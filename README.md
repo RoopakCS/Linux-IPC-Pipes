@@ -105,6 +105,8 @@ int main() {
 
 
 ## OUTPUT
+![image](https://github.com/RoopakCS/Linux-IPC-Pipes/assets/139228922/5c2df816-403b-4961-b438-1bb882a417a4)
+![image](https://github.com/RoopakCS/Linux-IPC-Pipes/assets/139228922/8c90d81f-4554-4a8d-b0fe-add27e351196)
 
 
 # RESULT:
