@@ -82,11 +82,8 @@ void client(int wfd,int rfd) {
     printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 }
 ````
-
-
-
-
 ## OUTPUT
+![image](https://github.com/RoopakCS/Linux-IPC-Pipes/assets/139228922/d1e40fda-0700-4ad5-b327-acc7ae2fde96)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
