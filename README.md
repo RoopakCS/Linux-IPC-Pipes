@@ -4,6 +4,9 @@ Linux-IPC-Pipes
 
 # Ex03-Linux IPC - Pipes
 
+# Name: Roopak C S
+# Register Number: 212223220088
+
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
 
